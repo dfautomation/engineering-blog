@@ -17,6 +17,9 @@ instagram = ""
 linkedin = ""
 twitter = "dfautomation"
 
+[params.info]
+homeTitle = "DF Automation Engineering Blog"
+
 [taxonomies]
 tag = "tags"
 
