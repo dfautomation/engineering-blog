@@ -2,6 +2,7 @@
 title: "Software Architecture of NavWiz"
 date: 2018-05-28T10:15:48+08:00
 author: "Patrick Chin"
+tags: ["software", "architecture"]
 ---
 
 Before we first designed our *Zalpha* AGV, we have delivered quite a number of customized AGV solutions. Learning from our past experience, we decided that we need a software which is flexible to different customizations, yet does not demand our programmers to be on-site to setup the AGVs.
