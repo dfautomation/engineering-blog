@@ -8,6 +8,10 @@ enableRobotsTXT = true
 disqusShortname = "dfautomation-engineering"
 googleAnalytics = "UA-119869560-1"
 
+[params.info]
+homeTitle = "DF Automation Engineering"
+enableSocial = true
+
 [params.social]
 codepen = ""
 email =  "careers@dfautomation.com"
@@ -16,9 +20,6 @@ github = "dfautomation"
 instagram = ""
 linkedin = ""
 twitter = "dfautomation"
-
-[params.info]
-homeTitle = "DF Automation Engineering"
 
 [taxonomies]
 tag = "tags"
