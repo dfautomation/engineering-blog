@@ -2,7 +2,7 @@ baseURL = "https://engineering.dfautomation.com/"
 languageCode = "en"
 title = "DF Automation Engineering"
 theme = "kiss"
-copyright = "&copy; <a href=\"http://www.dfautomation.com\">DF Automation and Robotics Sdn Bhd</a> 2018"
+copyright = "&copy; <a href=\"http://www.dfautomation.com\">DF Automation and Robotics Sdn Bhd</a> 2019"
 enableEmoji = true
 enableRobotsTXT = true
 disqusShortname = "dfautomation-engineering"
