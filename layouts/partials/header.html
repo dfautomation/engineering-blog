@@ -12,7 +12,7 @@
 {{- partial "social/opengraph" . -}}
 {{ end }}
 {{- range .AlternativeOutputFormats -}}
-<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}+{{ .MediaType.Suffix }}" href="{{ .Permalink }}" title="{{ $.Site.Title | safeHTML }}"/>
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}+{{ .MediaType.SubType }}" href="{{ .Permalink }}" title="{{ $.Site.Title | safeHTML }}"/>
 {{- end -}}
 <link rel="stylesheet" href="{{ "css/style.css" | relURL }}"/>
 {{- range .Site.Params.Assets.customCSS -}}
