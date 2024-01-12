@@ -30,6 +30,9 @@ How CSRT Tracker Works:
 ---
 The CSRT Tracker creates a confidence map, providing insights into the object's location in subsequent frames. This mechanism proves invaluable when dealing with scenarios where objects may disappear or undergo significant changes. In the context of the AGV, the CSRT Tracker functions as the robot's eyes, ensuring constant vigilance on the closest person it detects.
 
+
+![Alt text](person_tracker.gif)
+
 AGV's Navigation With CSRT Tracker:
 ---
 As the AGV navigates its environment, the CSRT Tracker serves as a crucial element in maintaining a watchful eye on the detected person. Continuously predicting the person's trajectory, the CSRT Tracker enables the AGV to proactively adjust its course, ensuring a smooth and secure interaction with its surroundings.
