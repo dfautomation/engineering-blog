@@ -2,7 +2,7 @@
 title: "Enhancing AGV Navigation: YOLO Object Detection and CSRT Tracking"
 date: 2024-01-11T10:28:48+08:00
 author: "Allex Yeo That Chen"
-tags: ["software", "deeplearning"]
+tags: ["software", "deep learning"]
 ---
 
 In the realm of autonomous systems, the use of cutting-edge technologies plays a pivotal role in ensuring efficient and safe operations. This article delves into the integration of YOLO (You Only Look Once) object detection and CSRT (Discriminative Correlation Filter with Channel and Spatial Reliability) tracking to empower an Automated Guided Vehicle (AGV) with advanced capabilities.

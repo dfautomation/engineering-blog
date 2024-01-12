@@ -1,8 +1,8 @@
 ---
 title: "Pallet Detection Model Training"
-date: 2024-01-11T10:11:08+08:00
+date: 2024-01-11T10:31:08+08:00
 author: "Quan Bong"
-tags: ["Deep Learning"]
+tags: ["software", "deep learning"]
 ---
 Embarking on the journey of training a pallet model requires meticulous preparation of the dataset. In this guide, we'll walk through the crucial steps from collecting images to organizing data for effective training. Let's dive in!
 
